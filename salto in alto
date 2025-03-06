@@ -1,0 +1,27 @@
+graph TD
+    A[Salto in alto] --> B[Storia del salto in alto]
+    A --> C[Tecniche del salto in alto]
+    A --> D[Misure e parametri del salto]
+    A --> E[Immagini correlate]
+
+    B --> B1[Origini antiche]
+    B --> B2[Lo sviluppo moderno]
+    B1 --> B1a[Antiche pratiche in Grecia e Roma]
+    B2 --> B2a[Salto in alto nelle competizioni moderne]
+    B2 --> B2b[Il salto con l'asticella]
+    
+    C --> C1[Tecnica del salto a piedi uniti]
+    C --> C2[Tecnica del Fosbury Flop]
+    C --> C3[Tecnica del salto a gambali]
+    C1 --> C1a[Saltare con il corpo in posizione verticale]
+    C2 --> C2a[Il salto con la testa prima]
+    C3 --> C3a[Tecnica utilizzata in passato]
+
+    D --> D1[Altezza dell'asticella]
+    D --> D2[Velocità di approccio]
+    D --> D3[Angolo di attacco]
+    D --> D4[Misure di prestazione]
+
+    E --> E1[Immagine di un atleta che salta]
+    E --> E2[Immagine di un salto con il Fosbury Flop]
+    E --> E3[Immagine di un salto con l'asticella]
